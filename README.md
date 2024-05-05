@@ -6,7 +6,7 @@ This repository develops an advanced recommendation system to enhance the e-comm
 
 ## Repository Structure
 
-### `alternative_implementation`
+### `alternative_implementations`
 Contains notebooks with methodologies evaluated but not selected for the final implementation.
 
 ### `final_implementation`
