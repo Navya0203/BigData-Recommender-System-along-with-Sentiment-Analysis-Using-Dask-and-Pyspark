@@ -35,4 +35,7 @@ pip install -r requirements.txt
 
 Prepare the dataset:
 - **Download the necessary data files.**
+  https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_us_Baby_v1_00.tsv
 - **Place them into the archive/ folder on your Google Drive Home directory**
+
+### Getting Started with Data Visualization
