@@ -34,5 +34,5 @@ pip install -r requirements.txt
 ### Setting Up the Data
 
 Prepare the dataset:
-- **Download the necessary data files.
-- **Place them into the archive/ folder on your Google Drive Honme directory
+- **Download the necessary data files.**
+- **Place them into the archive/ folder on your Google Drive Home directory**
