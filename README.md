@@ -28,3 +28,11 @@ To set up this project locally, run the following commands:
 git clone https://github.com/yourusername/your-repository-name.git
 cd your-repository-name
 pip install -r requirements.txt
+
+```
+
+### Setting Up the Data
+
+Prepare the dataset:
+- **Download the necessary data files.
+- **Place them into the archive/ folder on your Google Drive Honme directory
