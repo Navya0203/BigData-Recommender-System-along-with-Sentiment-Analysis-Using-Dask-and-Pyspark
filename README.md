@@ -38,4 +38,13 @@ Prepare the dataset:
   https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_us_Baby_v1_00.tsv
 - **Place them into the archive/ folder on your Google Drive Home directory**
 
-### Getting Started with Data Visualization
+### Running the Notebooks
+Navigate to the final_implementation directory:
+```bash
+cd final_implementation
+```
+#### Execute the notebooks:
+**Data Visualization and EDA**: Open and run `Final_EDA_BigData.ipynb` to visualize and explore the data.
+**Language Detection**: Continue with `Final_BigData_Language Detection.ipynb` to detect the language of the reviews and you will have an output file in Big Data Project/ named language.parquet/
+**Sentiment Analysis**: Proceed with Final_Dask_Sentiment_Analysis-2.ipynb for analyzing sentiments using Dask and you will have an output file in Big Data Project/ named senti.parquet
+**Recommendation System**: Finish by running Final_RecommenderSystem_SVD.ipynb to see how the SVD-based recommender system performs.
